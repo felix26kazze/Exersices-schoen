@@ -7,6 +7,7 @@ class Scratch {
         System.out.println(camelCase(input));
     }
 
+
     public static String camelCase(String input) {
         String result = "";
         int i = 0;
