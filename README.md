@@ -7,3 +7,4 @@ Exersice 4:
 Exersice 5: 2021
 Exersice 6:
 Manche funktionieren nicht im AppTester da dieser die teilweise anders haben will als in den PDFs steht
+d
